@@ -1,0 +1,12 @@
+C:\gavno\zmeyaxyi\zmzmzmz\zmzmzmz\bin\Debug\netcoreapp3.1\zmzmzmz.exe
+C:\gavno\zmeyaxyi\zmzmzmz\zmzmzmz\bin\Debug\netcoreapp3.1\zmzmzmz.deps.json
+C:\gavno\zmeyaxyi\zmzmzmz\zmzmzmz\bin\Debug\netcoreapp3.1\zmzmzmz.runtimeconfig.json
+C:\gavno\zmeyaxyi\zmzmzmz\zmzmzmz\bin\Debug\netcoreapp3.1\zmzmzmz.runtimeconfig.dev.json
+C:\gavno\zmeyaxyi\zmzmzmz\zmzmzmz\bin\Debug\netcoreapp3.1\zmzmzmz.dll
+C:\gavno\zmeyaxyi\zmzmzmz\zmzmzmz\bin\Debug\netcoreapp3.1\zmzmzmz.pdb
+C:\gavno\zmeyaxyi\zmzmzmz\zmzmzmz\obj\Debug\netcoreapp3.1\zmzmzmz.AssemblyInfoInputs.cache
+C:\gavno\zmeyaxyi\zmzmzmz\zmzmzmz\obj\Debug\netcoreapp3.1\zmzmzmz.AssemblyInfo.cs
+C:\gavno\zmeyaxyi\zmzmzmz\zmzmzmz\obj\Debug\netcoreapp3.1\zmzmzmz.csproj.CoreCompileInputs.cache
+C:\gavno\zmeyaxyi\zmzmzmz\zmzmzmz\obj\Debug\netcoreapp3.1\zmzmzmz.dll
+C:\gavno\zmeyaxyi\zmzmzmz\zmzmzmz\obj\Debug\netcoreapp3.1\zmzmzmz.pdb
+C:\gavno\zmeyaxyi\zmzmzmz\zmzmzmz\obj\Debug\netcoreapp3.1\zmzmzmz.genruntimeconfig.cache
